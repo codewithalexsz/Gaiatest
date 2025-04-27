@@ -1,7 +1,7 @@
 Use this Script to run ToolKit 👇
 
 ## First create screen 
-<pre> tmux new-session -s gaia </pre>
+``` tmux new-session -s gaia ```
 --- to restore screen use <pre> tmux attach-session -t gaia </pre>
 
 ## Run one-click installatioin
